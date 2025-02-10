@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hazem-Farhat
 - 👀 I’m interested in Data Analysis and Business Intelligence
-- 🌱 I’m currently learning Business Analytics 
+- 🌱 I’m currently a Data Analyst at SOHATRAM 
 - 💞️ I’m looking to collaborate on Data analysis project,Data Visualization and Power BI projects.
-- 📫 How to reach me : **Via email**: zouka.farhat@gmail.com / farhat.hazem@esprit.tn
+- 📫 How to reach me : **Via email**: zouka.farhat@gmail.com / farhat.hazem@sohatram.com.tn
                         **Via LinkedIn:** https://www.linkedin.com/in/hazemfarhat/
 
 <!---
