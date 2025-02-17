@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data analysis project,Data Visualization and Power BI projects.
 - 📫 How to reach me : **Via email**: zouka.farhat@gmail.com / farhat.hazem@sohatram.com.tn
                         **Via LinkedIn:** https://www.linkedin.com/in/hazemfarhat/
+                        **Via Upwork:** https://www.upwork.com/freelancers/~01e8eea24ec0ae803f
 
 <!---
 Hazem-Farhat/Hazem-Farhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
